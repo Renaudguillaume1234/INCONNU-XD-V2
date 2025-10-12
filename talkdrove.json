@@ -10,7 +10,7 @@
       "SESSION_ID": {
         "description": "Put your SESSION_ID here.get session id from here, https://inconnu-boy-tech-bot.onrender.com/pair",
         "required": true,
-        "value":"add your session"
+        "value":"INCONNU~XD~P9oUQR5a#YevvhUuQ5ZXZITCBA3fDrEzkNCDHV4WXcxvB8ipO64w"
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "554488138425"
+      "value": "2250152729095"
 
     }, 
 
@@ -52,7 +52,7 @@
     
     "ANTI_DELETE": {
       "description": "MAKE IT TRUE IF YOU WANT TO RECOVER DELETED MSGS",
-      "required": false,
+      "required": true,
       "value": "true"
     }, 
 
