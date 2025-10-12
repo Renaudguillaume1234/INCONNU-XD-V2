@@ -10,7 +10,7 @@
       "SESSION_ID": {
         "description": "Put your SESSION_ID here.get session id from here, https://inconnu-boy-tech-bot.onrender.com/pair",
         "required": true,
-        "value":"INCONNU~XD~P9oUQR5a#YevvhUuQ5ZXZITCBA3fDrEzkNCDHV4WXcxvB8ipO64w"
+        "value":"INCONNU~XD~3pJWSYiT#UjoO3-rK3rx7AxdA8iHzSD7B37rbth65MXor1cQTW9k"
       },
       "PREFIX": {
         "description": "Bot command prefix, (e.g, . , ! @ etc",
